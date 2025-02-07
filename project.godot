@@ -1,0 +1,7 @@
+
+[application]
+config/name="PingPong Game"
+run/main_scene="res://scenes/Main.tscn"
+
+[rendering]
+renderer/2d/antialiasing/use_msa=true
